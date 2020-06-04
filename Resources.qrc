@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/button"/>
+    <qresource prefix="/mainwindow"/>
+    <qresource prefix="/level1"/>
+</RCC>
