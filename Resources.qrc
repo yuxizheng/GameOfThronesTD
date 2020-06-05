@@ -1,5 +1,11 @@
 <RCC>
-    <qresource prefix="/button"/>
-    <qresource prefix="/mainwindow"/>
+    <qresource prefix="/button">
+        <file>images/homebtn.jpg</file>
+        <file>images/startbtn.jpg</file>
+    </qresource>
+    <qresource prefix="/mainwindow">
+        <file>images/background.jpg</file>
+        <file>images/blackbackground.jpg</file>
+    </qresource>
     <qresource prefix="/level1"/>
 </RCC>
